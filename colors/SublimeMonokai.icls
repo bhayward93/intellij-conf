@@ -1,7 +1,13 @@
 <scheme name="SublimeMonokai" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.25" />
-  <option name="EDITOR_FONT_SIZE" value="11" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="10" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
+    <option name="EDITOR_FONT_SIZE" value="10" />
+  </font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="304050" />
     <option name="ANNOTATIONS_COLOR" value="9eb0de" />
