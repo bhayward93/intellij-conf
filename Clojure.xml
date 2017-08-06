@@ -2,8 +2,8 @@
   <component name="ClojureIdeSettings">
     <option name="coloredParentheses" value="true" />
     <option name="separateREPLItems" value="true" />
-    <option name="highlightUnresolved" value="false" />
     <option name="replHistorySize" value="90" />
+    <option name="replHighlightLines" value="100" />
     <option name="structuralStyle" value="0" />
   </component>
 </application>
