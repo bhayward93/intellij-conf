@@ -4,4 +4,5 @@
     <option name="FONT_FAMILY" value="Source Code Pro" />
     <option name="FONT_SCALE" value="1.25" />
   </component>
+  <component name="LiveEditOptions" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
 </application>
