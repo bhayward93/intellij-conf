@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="83e8fe8c-9c8d-47ae-959c-35423f0ef9a2" name="apache2" url="http://192.168.0.18">
-        <fileTransfer port="0" mountedRoot="/var/www/html" accessType="MOUNT" />
+        <fileTransfer port="0" mountedRoot="/var/www/html/benhayward" accessType="MOUNT" />
       </webServer>
     </option>
   </component>
