@@ -5,7 +5,6 @@
       <interpreter id="c69403d5-cdf4-4236-a037-5b8af127208b" name="PHP" debugger_id="php.debugger.XDebug" />
       <interpreter home="/usr/bin/php" id="9c036254-a7c2-471c-8ace-e044ce2accb9" name="PHP 7 (1)" debugger_id="php.debugger.XDebug" />
       <interpreter home="/usr/bin/php7.0" id="1f73580c-6f39-493c-a519-dd3b1315fdd2" name="Custom" debugger_id="php.debugger.XDebug" debugger_extension="/usr/lib/php/20151012/xdebug.so" />
-      <interpreter home="/usr/bin/php" id="56a83707-de18-4ad0-ae77-bd620b7fbb4b" name="PHP latest" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
