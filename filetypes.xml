@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="dark-wood-bg" type="Images" />
-      <mapping pattern="currencyEnum" type="JavaScript" />
-      <mapping pattern="dark-wood-bg.jpg" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>

@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Leiningen unindexed repositories detection" displayType="NONE" shouldLog="false" />
-  </component>
-</application>
