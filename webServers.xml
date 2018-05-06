@@ -4,7 +4,7 @@
       <webServer id="83e8fe8c-9c8d-47ae-959c-35423f0ef9a2" name="apache2" url="http://192.168.0.18">
         <fileTransfer port="0" mountedRoot="/var/www/html/benhayward" accessType="MOUNT" />
       </webServer>
-      <webServer id="d4eda842-9c55-4714-806f-0fbe5222d7b8" name="apache2-new" url="http://192.168.0.18:80">
+      <webServer id="d4eda842-9c55-4714-806f-0fbe5222d7b8" name="apache2-new" url="http://192.168.0.18">
         <fileTransfer port="0" mountedRoot="/var/www/html" accessType="MOUNT" />
       </webServer>
     </option>

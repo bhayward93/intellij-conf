@@ -1,19 +1,20 @@
 <scheme name="SublimeMonokai copy" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-10-21T01:37:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.5.0.0</property>
-    <property name="modified">2017-10-21T01:48:27</property>
+    <property name="modified">2018-05-06T20:54:12</property>
     <property name="originalScheme">SublimeMonokai</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="10" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
-    <option name="EDITOR_FONT_SIZE" value="10" />
+    <option name="EDITOR_FONT_SIZE" value="8" />
   </font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="304050" />
