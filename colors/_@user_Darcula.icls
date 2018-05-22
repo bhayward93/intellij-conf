@@ -3,28 +3,28 @@
     <property name="created">2018-05-22T16:10:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.2.0.0</property>
-    <property name="modified">2018-05-22T19:31:58</property>
+    <property name="modified">2018-05-22T22:55:44</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_ADDED" value="6299c4" />
+    <option name="FILESTATUS_ADDED" value="b27d" />
     <option name="FILESTATUS_COPIED" value="659d9a" />
     <option name="FILESTATUS_DELETED" value="f77669" />
-    <option name="FILESTATUS_HIJACKED" value="62c47c" />
+    <option name="FILESTATUS_HIJACKED" value="9a6fc4" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="546e7a" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="cec86f" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="cccccc" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="5da892" />
     <option name="FILESTATUS_MERGED" value="65738e" />
-    <option name="FILESTATUS_MODIFIED" value="6299c4" />
+    <option name="FILESTATUS_MODIFIED" value="b27d" />
     <option name="FILESTATUS_NOT_CHANGED" value="626669" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6299c4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6299c4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="b27d" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="b27d" />
     <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
     <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="616161" />
     <option name="FILESTATUS_SWITCHED" value="8978f" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_modifiedOutside" value="6299c4" />
+    <option name="FILESTATUS_modifiedOutside" value="b27d" />
   </colors>
 </scheme>
